@@ -1,0 +1,4 @@
+splusthon
+rich
+pyfiglet
+colorama
